@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Sou o Felipe, bem vindos a meu perfil!</h2>
+<h2 align="left">Olá 👋! Sou o Felipe, bem vindos a meu perfil!</h2>
 
 ###
 
